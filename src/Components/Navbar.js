@@ -17,7 +17,7 @@ export const Navbar = () => {
                     <Link to="/spellsonder">SPELLSONDER</Link>
     </li>*/}
                 <li>
-                    <a className="nav-link" href="https://drive.google.com/file/d/18quwSEW0sUWcVwBfGJKNV2WnzSrehx25/view?usp=sharing" target="_blank">RESUME</a>
+                    <a className="nav-link" href="https://docs.google.com/document/d/1KvQIGn-qW5X_6G6HwqysU3OPmI7bIQppqg8cVIPNMWY/edit" target="_blank">RESUME</a>
                 </li>
             </ul>
 
